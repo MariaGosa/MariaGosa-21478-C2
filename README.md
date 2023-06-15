@@ -1,0 +1,2 @@
+# Maria
+ Kod przedstawiający minigrę.
