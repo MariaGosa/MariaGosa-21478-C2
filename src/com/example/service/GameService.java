@@ -2,7 +2,7 @@ package com.example.service;
 
 import com.example.game.Game;
 import com.example.model.Player;
-/* Klasa obsługująca grę i jej logikę. */
+/* Klasa obsługująca grę i jej logikę.*/
 public class GameService {
     private Game game;
     /* Rozpoczyna nową grę miedzy dwoma graczami. */
