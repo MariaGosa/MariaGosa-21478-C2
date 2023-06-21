@@ -4,7 +4,7 @@ import com.example.model.Player;
 
 import java.util.Random;
 
-/* Klasa reprezentująca grę. */
+/* Klasa reprezentująca grę.*/
 public class Game {
     private Player player1;
     private Player player2;
