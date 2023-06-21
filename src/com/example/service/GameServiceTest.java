@@ -1,7 +1,7 @@
 package com.example.service;
 
 import com.example.model.Player;
-/* Klasa testowa dla GameService. */
+/* Klasa testowa dla GameService.*/
 public class GameServiceTest {
     private GameService gameService;
 
