@@ -1,5 +1,5 @@
 package com.example.model;
-/* Klasa która reprezentuje gracza. */
+/* Klasa która reprezentuje gracza.*/
 public class Player {
     private String name;
     private int score;
